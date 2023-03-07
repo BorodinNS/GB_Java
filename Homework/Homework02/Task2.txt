@@ -1,0 +1,24 @@
+РјР°СЂ 07, 2023 11:33:39 AM Homework.Homework02.task2 main
+INFO: РџРµСЂРІРѕРµ РІРІРµРґРµРЅРЅРѕРµ С‡РёСЃР»Рѕ: 15.0
+РјР°СЂ 07, 2023 11:33:44 AM Homework.Homework02.task2 main
+INFO: Р’С‚РѕСЂРѕРµ РІРІРµРґРµРЅРЅРѕРµ С‡РёСЃР»Рѕ: 15.0
+РјР°СЂ 07, 2023 11:33:49 AM Homework.Homework02.task2 main
+INFO: РћРїРµСЂР°С†РёСЏ: *
+РјР°СЂ 07, 2023 11:33:49 AM Homework.Homework02.task2 main
+INFO: Р РµР·СѓР»СЊС‚Р°С‚: 225.0
+мар 07, 2023 4:43:16 PM Homework.Homework02.task2 main
+INFO: Первое введенное число: 55.0
+мар 07, 2023 4:43:19 PM Homework.Homework02.task2 main
+INFO: Второе введенное число: 55.0
+мар 07, 2023 4:43:21 PM Homework.Homework02.task2 main
+INFO: Операция: +
+мар 07, 2023 4:43:21 PM Homework.Homework02.task2 main
+INFO: Результат: 110.0
+мар 07, 2023 4:49:02 PM Homework.Homework02.task2 main
+INFO: Первое введенное число: 55.0
+мар 07, 2023 4:49:04 PM Homework.Homework02.task2 main
+INFO: Второе введенное число: 125.0
+мар 07, 2023 4:49:06 PM Homework.Homework02.task2 main
+INFO: Операция: -
+мар 07, 2023 4:49:06 PM Homework.Homework02.task2 main
+INFO: Результат: -70.0
