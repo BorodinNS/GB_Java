@@ -34,5 +34,7 @@ public class task3 {
             default:
                 System.out.println("нет такой операции :(");
         }
+        scan.close();
+        scan1.close();
    }    
 }

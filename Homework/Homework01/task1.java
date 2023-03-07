@@ -20,6 +20,7 @@ public class task1 {
         System.out.println ("Введенное число " + num);
         System.out.println ("n-ое треугольного число = " + snum);
         System.out.println ("Факториал = " + factor);
+        scan.close();
     }
     
 }
