@@ -16,7 +16,7 @@ public class task2 {
         double num1 = 0;
         double num2 = 0;
         Logger loger = Logger.getLogger(task2.class.getName());
-        FileHandler fHandler = new FileHandler("Task2.txt", true);
+        FileHandler fHandler = new FileHandler("D:\\Обучение\\GeekBrains\\Вторая четверть\\JAVA\\Homework\\Homework02\\Task2.txt", true);
         SimpleFormatter sFormatter = new SimpleFormatter();
         fHandler.setFormatter(sFormatter);
         loger.addHandler(fHandler);

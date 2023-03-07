@@ -26,7 +26,7 @@ public class task1 {
 
     public static int[] bblsrt(int arr[]) throws IOException {
         Logger loger = Logger.getLogger(task1.class.getName());
-        FileHandler fHandler = new FileHandler("Task1.txt");
+        FileHandler fHandler = new FileHandler("D:\\Обучение\\GeekBrains\\Вторая четверть\\JAVA\\Homework\\Homework02\\Task1.txt", true);
         SimpleFormatter sFormatter = new SimpleFormatter();
         fHandler.setFormatter(sFormatter);
         loger.addHandler(fHandler);
